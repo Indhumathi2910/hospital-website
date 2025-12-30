@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Indhumathi2910/hospital-website/",
+  "homepage": "https://Indhumathi2910.github.io/hospital-website/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
